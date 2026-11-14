@@ -7,4 +7,4 @@ obj/
 *.cs
 Runtime/
 .editorconfig
-.honey-generated.json
+.clients-generated.json
